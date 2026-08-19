@@ -465,7 +465,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Pickle Rick](https://tryhackme.com/room/picklerick)
 
-- [ ] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
+- [X] [TryHackMe | c4ptur3-th3-fl4g](https://tryhackme.com/room/c4ptur3th3fl4g)
 
 - [ ] [TryHackMe | Library](https://tryhackme.com/room/bsidesgtlibrary)
 
