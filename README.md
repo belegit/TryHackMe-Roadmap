@@ -485,7 +485,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Dav](https://tryhackme.com/room/bsidesgtdav)
 
-- [ ] [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
+- [X] [TryHackMe | Ninja Skills](https://tryhackme.com/room/ninjaskills)
 
 - [ ] [TryHackMe | Ice](https://tryhackme.com/room/ice)
 
